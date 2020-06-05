@@ -1,5 +1,5 @@
 # youtube-downloder
-Download videos from You tube
+Download videos from You tube,
 Requirements:
-Django
-pytube
+1.Django
+2.pytube
